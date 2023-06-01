@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MorrisAdam0/GUI-for-Electrochemical-Flow-System-and-Iorodeo-Potentiostat">
-    <img src="screenshot.png" alt="Logo" width="80" height="80">
+    <img src="Screenshot.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 
